@@ -174,20 +174,5 @@
             </intent-filter>
         </receiver>
         <!-- 魅族 end-->
-
-        <!-- VIVO厂商通道 start-->
-        <meta-data
-            android:name="com.vivo.push.api_key"
-            android:value="08f08c24f7f01268038bacd9b217665d" />
-        <meta-data
-            android:name="com.vivo.push.app_id"
-            android:value="103916922" />
-        <!-- VIVO厂商通道 end-->
-
-        <!-- HUAWEI厂商通道 start-->
-        <meta-data
-            android:name="com.huawei.hms.client.appid"
-            android:value="102435595" />
-        <!-- HUAWEI厂商通道 end-->
     </application>
 </manifest>
